@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-### Glad to see you here! 🤩  &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ritikajha.ritikajha)
- 
+### Glad to see you here! 🤩 &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp;![](https://visitor-badge.glitch.me/badge?page_id=ritikajha.ritikajha)
+  
 I'm a 3rd year student pursuing Master's in Computer Science 🎓 from Jawaharlal Nehru University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Deep learning 🕸️ and working on Image Processing 🤓.
 
 <img align="right" height="250" width="320" alt="GIF" src="https://lh4.googleusercontent.com/proxy/gjd6qkC8To8Ty4a1seXXYgJY1Ac4QYxSd3dvNsfHq3IqdtDd79Z6YSvdR9JxSKN_xd3FCqM8P1LIe0Ly2Tb0L8V2lUwH0yZuqJ4I3I3jE2sGTp9yFsu4xWixU1ORzNZLyUW9070PIg=s0-d" />
