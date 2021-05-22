@@ -25,17 +25,15 @@ I'm a 3rd year student pursuing Master's in Computer Science 🎓 from Jawaharla
 <code><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /></code>
 
-### 🚀 Frameworks:
+### 🚀 Frameworks and Tools:
 
 <code><img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></code>
 
-### 💻 OS
-
-<code><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></code>
-<code><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></code>
+</ br>
 
 <!-- ### Languages and Tools:
 
@@ -54,6 +52,7 @@ I'm a 3rd year student pursuing Master's in Computer Science 🎓 from Jawaharla
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ritikajha&show_icons=true&hide_border=true)
 
+#
 
 <div align="center">
 <a href="https://www.linkedin.com/in/ritika-jha-000b71194/">
