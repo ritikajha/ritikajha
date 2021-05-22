@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 ### Glad to see you here! 🤩 &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp;![](https://visitor-badge.glitch.me/badge?page_id=ritikajha.ritikajha)
   
