@@ -37,7 +37,7 @@ I'm a 3rd year student pursuing Master's in Computer Science 🎓 from Jawaharla
 <code><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></code>
 
-### Languages and Tools:
+<!-- ### Languages and Tools:
 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -49,7 +49,7 @@ I'm a 3rd year student pursuing Master's in Computer Science 🎓 from Jawaharla
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="30" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
+<code><img height="30" src="https://pytorch.org/assets/images/pytorch-logo.png"></code> -->
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ritikajha&show_icons=true&hide_border=true)
