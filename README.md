@@ -14,6 +14,29 @@ I'm a 3rd year student pursuing Master's in Computer Science 🎓 from Jawaharla
 - 📫 How to reach me: 08ritikajha@gmail.com, ritika87_soe@jnu.ac.in
 - 📝 [Resume](https://www.canva.com/design/DAD4gIyNJW0/share/preview?token=NguFbBizDwHNVOc6PwQvQg&role=EDITOR&utm_content=DAD4gIyNJW0&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
+### 👩‍💻 Languages:
+
+<code><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></code>
+
+### ⚡ Database:
+<code><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /></code>
+
+### 🚀 Frameworks:
+
+<code><img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" /></code>
+
+### 💻 OS
+
+<code><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></code>
+
 ### Languages and Tools:
 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"></code>
