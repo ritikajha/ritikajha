@@ -43,6 +43,8 @@ I'm a 3rd year student pursuing Master's in Computer Science 🎓 from Jawaharla
   <img align="left" alt="Ritika's Telegram" width="32px" src="https://web.telegram.org/img/logo_share.png" />
 </a>
 <div align="right">
+ 
 ### Show some ❤️ by starring some of the repositories!
+ 
 </div>
 </div>
