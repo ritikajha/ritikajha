@@ -28,6 +28,8 @@ I'm a 3rd year student pursuing B.Tech + M.Tech (Dual degree) in Computer Scienc
 ### 🚀 Frameworks and Tools:
 
 <code><img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/Tensorflow-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/Pytorch-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" /></code>
