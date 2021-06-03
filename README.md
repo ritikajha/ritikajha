@@ -10,7 +10,6 @@ I'm a 3rd year student pursuing B.Tech + M.Tech (Dual degree) in Computer Scienc
 
 - 🛠 I’m currently working with tensorflow and pytorch 💻.
 - 👨🏻‍💻 I’m currently learning Data Structure and Algorithm 🚀.
-- ⚡ Fun fact: AI is already in Movies :  Iron Man's "Jarvis," "Vision" from Avengers, or "The Terminator" are all part of the AI world in movies.
 - 📫 How to reach me: 08ritikajha@gmail.com, ritika87_soe@jnu.ac.in
 - 📝 [Resume](https://www.canva.com/design/DAD4gIyNJW0/4f7Wy4-US3nUJy3PZgxquA/view?utm_content=DAD4gIyNJW0&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
@@ -34,7 +33,7 @@ I'm a 3rd year student pursuing B.Tech + M.Tech (Dual degree) in Computer Scienc
 <code><img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></code>
 
-</ br>
+</br>
 
 <!-- ### Languages and Tools:
 
