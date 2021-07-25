@@ -11,7 +11,7 @@ I'm a 3rd year student pursuing B.Tech + M.Tech (Dual degree) in Computer Scienc
 - 🛠 I’m currently working with tensorflow and pytorch 💻.
 - 👨🏻‍💻 I’m currently learning Data Structure and Algorithm 🚀.
 - 📫 How to reach me: 08ritikajha@gmail.com, ritika87_soe@jnu.ac.in
-- 📝 [Resume](https://www.canva.com/design/DAD4gIyNJW0/4f7Wy4-US3nUJy3PZgxquA/view?utm_content=DAD4gIyNJW0&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+- 📝 [Resume](https://www.canva.com/design/DAElOltLIek/ch3Ged7qryzIDUvWv3UGsw/view?utm_content=DAElOltLIek&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 ### 👩‍💻 Languages:
 
