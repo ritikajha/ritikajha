@@ -51,10 +51,21 @@ I'm a 3rd year student pursuing B.Tech + M.Tech (Dual degree) in Computer Scienc
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="30" src="https://pytorch.org/assets/images/pytorch-logo.png"></code> -->
 
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=ritikajha&show_icons=true&hide_border=true)
+<!-- 
+![Github stats](https://github-readme-stats.vercel.app/api?username=ritikajha&show_icons=true&hide_border=true) -->
 
 #
+
+
+ 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritikajha" alt="ritikajha" /></a> </p>
+
+<br/>
+  
+Stats | Streak |
+--- | --- |
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritikajha&show_icons=true&locale=en" alt="ritikajha" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikajha&" alt="ritikajha" /> | 
+
 
 <div align="center">
 <a href="https://www.linkedin.com/in/ritika-jha-000b71194/">
@@ -66,9 +77,9 @@ I'm a 3rd year student pursuing B.Tech + M.Tech (Dual degree) in Computer Scienc
 <a href="https://t.me/ritikajha08">
   <img align="left" alt="Ritika's Telegram" width="32px" src="https://web.telegram.org/img/logo_share.png" />
 </a>
-<div align="right">
- 
+  
+<br/>
+  
 ### Show some ❤️ by starring some of the repositories!
- 
-</div>
+  
 </div>
