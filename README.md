@@ -2,16 +2,13 @@
 
 ### Glad to see you here! 🤩 &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp;![](https://visitor-badge.glitch.me/badge?page_id=ritikajha.ritikajha)
   
-I'm a 3rd year student pursuing B.Tech + M.Tech (Dual degree) in Computer Science 🎓 from Jawaharlal Nehru University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Deep learning 🕸️ and working on Image Processing 🤓.
+I'm a 1st year PhD scholar at 🎓 IIIT Delhi 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
 
 <img align="right" height="250" width="320" alt="GIF" src="https://lh4.googleusercontent.com/proxy/gjd6qkC8To8Ty4a1seXXYgJY1Ac4QYxSd3dvNsfHq3IqdtDd79Z6YSvdR9JxSKN_xd3FCqM8P1LIe0Ly2Tb0L8V2lUwH0yZuqJ4I3I3jE2sGTp9yFsu4xWixU1ORzNZLyUW9070PIg=s0-d" />
 
-### Talking about Personal Stuffs:
 
-- 🛠 I’m currently working with tensorflow and pytorch 💻.
-- 👨🏻‍💻 I’m currently learning Data Structure and Algorithm 🚀.
 - 📫 How to reach me: 08ritikajha@gmail.com, ritika87_soe@jnu.ac.in
-- 📝 [Resume](https://www.canva.com/design/DAElOltLIek/ch3Ged7qryzIDUvWv3UGsw/view?utm_content=DAElOltLIek&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 
 ### 👩‍💻 Languages:
 
