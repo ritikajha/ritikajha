@@ -7,7 +7,7 @@ I'm a 1st year PhD scholar at 🎓 IIIT Delhi 🏛. I'm a passionate learner who
 <img align="right" height="250" width="320" alt="GIF" src="https://lh4.googleusercontent.com/proxy/gjd6qkC8To8Ty4a1seXXYgJY1Ac4QYxSd3dvNsfHq3IqdtDd79Z6YSvdR9JxSKN_xd3FCqM8P1LIe0Ly2Tb0L8V2lUwH0yZuqJ4I3I3jE2sGTp9yFsu4xWixU1ORzNZLyUW9070PIg=s0-d" />
 
 
-- 📫 How to reach me: 08ritikajha@gmail.com, ritika87_soe@jnu.ac.in
+- 📫 How to reach me: ritikaj@iiitd.ac.in, 08ritikajha@gmail.com
 
 
 ### 👩‍💻 Languages:
